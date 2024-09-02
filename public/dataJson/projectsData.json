@@ -15,7 +15,7 @@
       {"label": "Docker", "color": "blue"},
       {"label": "Vercel", "color": "black"}
     ],
-"summary": "Issue Tracker Next.js Application Features include user authentication, issue assignment, real-time tracking, and email notifications using React.Email."
+"summary": "Issue Tracker App Features include user authentication, issue assignment, real-time tracking, and email notifications"
   },
   {
     "title": "PlayStation",
@@ -33,7 +33,7 @@
       {"label": "Git", "color": "blue"},
       {"label": "Vercel", "color": "black"}
     ],
-    "summary": "PlayStation Project built with React and TypeScript, featuring dynamic UI, efficient data fetching with React Query, and state management using Zustand."
+    "summary": "PlayStation Project built with React and TypeScript, efficient data fetching with React Query, and state management using Zustand."
   },
   {
     "title": "Food Ordering App",
