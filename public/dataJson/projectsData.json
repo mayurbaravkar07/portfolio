@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Issue Tracker",
+    "externalLink":"https://issue-tracker-seven-theta.vercel.app/",
+    "githubLink": "https://github.com/mayurbaravkar07/issue_tracker",
+    "source": "issue.png",
+    "tags": [
+      {"label": "Next.js", "color": "blue"},
+      {"label": "Tailwind CSS", "color": "green"},
+      {"label": "Radix UI", "color": "purple"},
+      {"label": "Prisma", "color": "orange"},
+      {"label": "React.Email", "color": "yellow"},
+      {"label": "Next Auth", "color": "red"},
+      {"label": "Git", "color": "gray"},
+      {"label": "Docker", "color": "blue"},
+      {"label": "Vercel", "color": "black"}
+    ],
+"summary": "Issue Tracker Next.js Application Features include user authentication, issue assignment, real-time tracking, and email notifications using React.Email."
+  },
+  {
+    "title": "PlayStation",
+    "externalLink": "https://vercel.com/mayur-baravkars-projects/playstation",
+    "githubLink": "https://github.com/mayurbaravkar07/Playstation",
+    "source": "playstation.png",
+    "tags": [
+      {"label": "React", "color": "blue"},
+      {"label": "TypeScript", "color": "green"},
+      {"label": "React Query", "color": "purple"},
+      {"label": "Zustand", "color": "orange"},
+      {"label": "React Router", "color": "red"},
+      {"label": "Zod", "color": "yellow"},
+      {"label": "RAWG API", "color": "gray"},
+      {"label": "Git", "color": "blue"},
+      {"label": "Vercel", "color": "black"}
+    ],
+    "summary": "PlayStation Project built with React and TypeScript, featuring dynamic UI, efficient data fetching with React Query, and state management using Zustand."
+  },
+  {
+    "title": "Food Ordering App",
+    "externalLink": "https://food-application-chi.vercel.app/",
+    "githubLink": "https://github.com/mayurbaravkar07/food-application",
+    "source": "food-app.png",
+    "tags": [
+      {"label": "React.js", "color": "blue"},
+      {"label": "Tailwind CSS", "color": "green"},
+      {"label": "Swiggy API", "color": "purple"},
+      {"label": "Firebase", "color": "orange"}
+    ],
+    "summary": "Food Ordering App using React.js with real-time data from Swiggy APIs, optimizing performance with debouncing and lazy loading."
+  },
+  {
+    "title": "Netflix-GPT",
+    "externalLink": "https://netflix-gpt-seven-zeta.vercel.app/",
+    "githubLink": "https://github.com/mayurbaravkar07/netflix-gpt",
+    "source": "netflix-gpt.png",
+    "tags": [
+      {"label": "React.js", "color": "blue"},
+      {"label": "Tailwind CSS", "color": "green"},
+      {"label": "Firebase", "color": "purple"},
+      {"label": "TMDB API", "color": "orange"},
+      {"label": "OpenAI API", "color": "red"},
+      {"label": "Zod", "color": "yellow"}
+    ],
+    "summary": "Netflix-GPT is a React.js app with Firebase authentication, TMDB API for movie data, and GPT API for personalized suggestions."
+  },
+  {
+    "title": "Real-Time Bidding Platform",
+    "externalLink": "https://github.com/mayurbaravkar07/Real-Time-Bidding-Platform",
+    "githubLink": "https://github.com/mayurbaravkar07/Real-Time-Bidding-Platform",
+    "source": "bidding-platform.png",
+    "tags": [
+      {"label": "Node.js", "color": "blue"},
+      {"label": "Express.js", "color": "green"},
+      {"label": "JWT", "color": "purple"},
+      {"label": "WebSockets", "color": "orange"},
+      {"label": "Nodemailer", "color": "red"},
+      {"label": "REST API", "color": "gray"}
+    ],
+    "summary": "Real-Time Bidding Platform built with Node.js and Express.js, featuring JWT authentication and real-time notifications via WebSockets."
+  },
+  {
+    "title": "Portfolio-Mayur",
+    "externalLink": "https://mgodev-next.vercel.app/",
+    "githubLink": "https://github.com/matheusgomes062/portfolio-fe",
+    "source": "https://user-images.githubusercontent.com/47605309/209061871-90fa5ebc-0a87-4b44-b1bc-f2fd8d13df90.png",
+    "tags": [
+      {"label": "Next.js", "color": "gray"},
+      {"label": "Typescript", "color": "blue"},
+      {"label": "Git", "color": "gray"},
+      {"label": "Tailwindcss", "color": "blue"},
+      {"label": "Vercel", "color": "gray"},
+      {"label": "Spotify-API", "color": "green"}
+    ],
+    "summary": "Portfolio showcasing personal information, built with Next.js and Tailwind CSS, integrated with Spotify API."
+  }
+  
+ 
+  
+  
+]
+  
