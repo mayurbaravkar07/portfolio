@@ -1,7 +1,7 @@
 import cn from 'classnames';
 import Link from 'next/link';
+import { useEffect, useState } from 'react';
 import useDelayedRender from 'use-delayed-render';
-import { useState, useEffect } from 'react';
 import styles from '../styles/mobile-menu.module.css';
 
 export default function MobileMenu() {
@@ -70,9 +70,9 @@ export default function MobileMenu() {
             className="border-b border-gray-300 dark:border-gray-700 text-gray-900 dark:text-gray-100 text-sm font-semibold hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-r hover:dark:text-transparent hover:dark:bg-clip-text hover:dark:bg-gradient-to-r from-blue-500 to-purple-500 dark:from-blue-500 dark:to-purple-500"
             style={{ transitionDelay: '200ms' }}
           >
-            <Link href="/about" className="flex w-auto pb-4 justify-end">
+            {/* <Link href="/about" className="flex w-auto pb-4 justify-end">
               About
-            </Link>
+            </Link> */}
           </li>
           <li
             className="border-b border-gray-300 dark:border-gray-700 text-gray-900 dark:text-gray-100 text-sm font-semibold hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-r hover:dark:text-transparent hover:dark:bg-clip-text hover:dark:bg-gradient-to-r from-blue-500 to-purple-500 dark:from-blue-500 dark:to-purple-500"
