@@ -80,8 +80,8 @@
   },
   {
     "title": "Portfolio-Mayur",
-    "externalLink": "https://mgodev-next.vercel.app/",
-    "githubLink": "https://github.com/matheusgomes062/portfolio-fe",
+    "externalLink": "https://portfolio-ff3.vercel.app/",
+    "githubLink": "https://github.com/mayurbaravkar07/portfolio",
     "source": "https://user-images.githubusercontent.com/47605309/209061871-90fa5ebc-0a87-4b44-b1bc-f2fd8d13df90.png",
     "tags": [
       {"label": "Next.js", "color": "gray"},
