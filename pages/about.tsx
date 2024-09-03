@@ -1,9 +1,7 @@
 import Container from "@/components/Container";
-import ExperienceCard from "@/components/ExperienceCard";
 import { FaGithubSquare, FaLinkedin, FaPhoneAlt } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { SiGmail } from "react-icons/si";
-import experienceData from "../public/dataJson/experienceData.json";
 
 export default function About() {
   return (
@@ -38,7 +36,7 @@ export default function About() {
             </a>
           </div>
           <section>
-            <h2>My journey</h2>
+            {/* <h2>My journey</h2>
             
             {experienceData.map((experience, index) => (
               <div key={index} className="mb-7">
@@ -47,7 +45,7 @@ export default function About() {
                   <div className="border-b border-gray-300 dark:border-gray-700 my-7" />
                 )}
               </div>
-            ))}
+            ))} */}
           </section>
         </div>
       </div>
