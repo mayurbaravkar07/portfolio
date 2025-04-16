@@ -15,7 +15,7 @@
       {"label": "Docker", "color": "blue"},
       {"label": "Vercel", "color": "black"}
     ],
-"summary": "Issue Tracker App Features include user authentication, issue assignment, real-time tracking, and email notifications"
+"summary": "Issue Tracker App features CRUD of issues, issue assignment similar to mini jira, real-time tracking, and email notifications"
   },
   {
     "title": "PlayStation",
@@ -61,7 +61,7 @@
       {"label": "OpenAI API", "color": "red"},
       {"label": "Zod", "color": "yellow"}
     ],
-    "summary": "Netflix-GPT is a React.js app with Firebase authentication, TMDB API for movie data, and GPT API for personalized suggestions."
+    "summary": "Netflix-GPT is a React.js app with Firebase authentication, TMDB API for movie data, and OPEN-AI API for personalized movies suggestions."
   },
   {
     "title": "Real-Time Bidding Platform",
